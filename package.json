@@ -1,0 +1,34 @@
+{
+  "name": "playing_mongdb",
+  "version": "0.0.0",
+  "description": "using mongodb + nodejs + express, begginer C.R.U.D to create simple apps",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon":"*",
+    "express": "~> 3.0.0",
+    "jade": "*",
+    "mongodb":"*",
+    "mocha":"*",
+    "should":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xfry/playing_mongdb.git"
+  },
+  "keywords": [
+    "mongodb",
+    "nodejs",
+    "express",
+    "crud",
+    "tutorial"
+  ],
+  "author": "xfry",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/xfry/playing_mongdb/issues"
+  },
+  "homepage": "https://github.com/xfry/playing_mongdb"
+}
