@@ -2,9 +2,9 @@
   "name": "playing_mongdb",
   "version": "0.0.0",
   "description": "using mongodb + nodejs + express, begginer C.R.U.D to create simple apps",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon main.js"
   },
   "dependencies": {
     "nodemon":"*",
